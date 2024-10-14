@@ -78,10 +78,10 @@ public class Poetry {
   // Main method to handle file I/O and apply encoding/decoding.
   public static void main(String[] args) {
     // Input and output file paths.
-    String inputFile = "src\\l2t04\\poem.txt";
-    String encodedPoemFile = "src\\l2t04\\encodedPoem.txt";
-    String capitalVowelsFile = "src\\l2t04\\capitalVowels.txt";
-    String reversedPoemFile = "src\\l2t04\\reversePoem.txt";
+    String inputFile = "poem.txt";
+    String encodedPoemFile = "encodedPoem.txt";
+    String capitalVowelsFile = "capitalVowels.txt";
+    String reversedPoemFile = "reversePoem.txt";
 
     // Encoding phase (existing functionality).
     try (BufferedReader reader = new BufferedReader(new FileReader(inputFile));
