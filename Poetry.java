@@ -146,23 +146,6 @@ https://www.youtube.com/watch?v=xk4_1vDrzzo&t=18314s&ab_channel=BroCode
 https://stackoverflow.com/questions/30765270/reference-a-text-file-with-relative-path-in-java-with-the-intellij-idea
 https://desktop.arcgis.com/en/arcmap/latest/tools/supplement/pathnames-explained-absolute-relative-unc-and-url.htm#:~:text=A%20relative%20path%20refers%20to,moving%20up%20in%20the%20hierarchy
 
-Dear Mentor/Reviewer
-
-I took heed of the feedback given from Moipati, and did some further research as even though I am calling
-the poem.txt file by its name only on line 81, my exception error still gets thrown.
-
-The same happens with encodedPoem.txt, capitalVowels.txt, and reversePoem.txt, as I need to specify where
-these files need to be created to.
-
-So I found on StackOverflow that I need to give the file path from "src" to make it relative.
-https://stackoverflow.com/questions/30765270/reference-a-text-file-with-relative-path-in-java-with-the-intellij-idea
-
-If this is still not right, kindly have me resubmit it, and I'll book a session with a mentor to
-figure out if I am missing something wholly wrong.
-
-I added the output files as reference to the Methods that worked to produce them
-and also as proof for each of the Compulsory Tasks 1, 2, and 3.
-
 Thanks, Farinaaz :)
 
  */
